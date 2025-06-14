@@ -36,11 +36,7 @@ O Educare é uma plataforma móvel e web desenvolvida para simplificar o dia a d
 Professores da educação básica ao ensino superior, coordenadores e gestores escolares.  
 
 ## 📌 Links Úteis  
-- [Site Oficial](https://www.educareapp.com) 🌐  
-- [Download na Google Play](https://play.google.com/store/apps/educare) 📥  
-- [Download na App Store](https://apps.apple.com/br/app/educare) 📲  
-- [Vídeo Demonstração](https://youtube.com/educare-demo) ▶️  
-
+- [Site Oficial](https://www.educareapp.com) 🌐    
 
 ## 📊 Por que usar o Educare?  
 ✔ **Economize tempo** com processos automatizados.  
