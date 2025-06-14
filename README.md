@@ -41,10 +41,6 @@ Professores da educação básica ao ensino superior, coordenadores e gestores e
 - [Download na App Store](https://apps.apple.com/br/app/educare) 📲  
 - [Vídeo Demonstração](https://youtube.com/educare-demo) ▶️  
 
-## 🛠️ Tecnologias Utilizadas  
-- **Front-end**: React.js (Web) / React Native (Mobile)  
-- **Back-end**: Node.js + Firebase  
-- **Banco de Dados**: MongoDB  
 
 ## 📊 Por que usar o Educare?  
 ✔ **Economize tempo** com processos automatizados.  
@@ -55,4 +51,4 @@ Professores da educação básica ao ensino superior, coordenadores e gestores e
 *"Transformando a gestão escolar, uma aula de cada vez."* ✨  
 
 📩 **Contato**: contato@educareapp.com  
-📢 **Siga-nos**: [Instagram @educare](https://instagram.com/educare) | [Twitter @educareapp](https://twitter.com/educareapp)  
+
