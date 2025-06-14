@@ -1,30 +1,58 @@
-# educareapp
+# Educare 📚✨  
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Aplicativo de Gestão Escolar para Professores**  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/guilhermesayd5-5699s-projects/v0-educareapp)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/oLI6dQimgVM)
+O Educare é uma plataforma móvel e web desenvolvida para simplificar o dia a dia dos educadores, oferecendo ferramentas intuitivas para **registro de presença, lançamento de notas e acompanhamento do desempenho dos alunos**.  
 
-## Overview
+![Educare - Dashboard de acompanhamento](https://example.com/educare-dashboard.jpg)  
+*(Imagem ilustrativa: Painel de controle do Educare)*  
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🔥 Principais Funcionalidades  
 
-## Deployment
+✅ **Registro de Presença**  
+- Marcação rápida por turma, disciplina ou data.  
+- Visualização em lista ou grade para facilitar a identificação.  
 
-Your project is live at:
+✅ **Lançamento de Notas**  
+- Adicione avaliações com critérios personalizados.  
+- Cálculo automático de médias (bimestral, semestral, etc.).  
 
-**[https://vercel.com/guilhermesayd5-5699s-projects/v0-educareapp](https://vercel.com/guilhermesayd5-5699s-projects/v0-educareapp)**
+✅ **Filtros Inteligentes**  
+- Busque por aluno, turma, disciplina ou período.  
+- Exporte dados para planilhas (CSV, Excel).  
 
-## Build your app
+✅ **Relatórios e Gráficos**  
+- Gere relatórios de frequência e desempenho em PDF.  
+- Visualize métricas com gráficos interativos (linhas, barras, pizza).  
 
-Continue building your app on:
+✅ **Sincronização em Tempo Real**  
+- Dados atualizados simultaneamente (app e web).  
+- Acesso offline (com sincronização quando reconectar).  
 
-**[https://v0.dev/chat/projects/oLI6dQimgVM](https://v0.dev/chat/projects/oLI6dQimgVM)**
+## 📲 Plataformas Suportadas  
+- **Android** | **iOS** | **Web** (navegadores modernos).  
 
-## How It Works
+## 🎯 Público-Alvo  
+Professores da educação básica ao ensino superior, coordenadores e gestores escolares.  
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📌 Links Úteis  
+- [Site Oficial](https://www.educareapp.com) 🌐  
+- [Download na Google Play](https://play.google.com/store/apps/educare) 📥  
+- [Download na App Store](https://apps.apple.com/br/app/educare) 📲  
+- [Vídeo Demonstração](https://youtube.com/educare-demo) ▶️  
+
+## 🛠️ Tecnologias Utilizadas  
+- **Front-end**: React.js (Web) / React Native (Mobile)  
+- **Back-end**: Node.js + Firebase  
+- **Banco de Dados**: MongoDB  
+
+## 📊 Por que usar o Educare?  
+✔ **Economize tempo** com processos automatizados.  
+✔ **Tenha dados organizados** em poucos cliques.  
+✔ **Tome decisões pedagógicas** baseadas em relatórios precisos.  
+
+---  
+*"Transformando a gestão escolar, uma aula de cada vez."* ✨  
+
+📩 **Contato**: contato@educareapp.com  
+📢 **Siga-nos**: [Instagram @educare](https://instagram.com/educare) | [Twitter @educareapp](https://twitter.com/educareapp)  
